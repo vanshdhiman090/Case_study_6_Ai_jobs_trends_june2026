@@ -17,7 +17,7 @@ An end-to-end data analytics project analyzing the global AI job market to ident
 
 ## Live Dashboard
 
-*[Add your Power BI link here.](https://bitsiserlohn-my.sharepoint.com/:u:/r/personal/vansh2_ue-germany_de/Documents/Case_Study_6.pbix?csf=1&web=1&e=HTQdWa)*
+*[Link is here.](https://bitsiserlohn-my.sharepoint.com/:u:/r/personal/vansh2_ue-germany_de/Documents/Case_Study_6.pbix?csf=1&web=1&e=HTQdWa)*
 
 ---
 **Author:** Vansh Dhiman
